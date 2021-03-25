@@ -28,6 +28,12 @@ def load_data(dataFolder, state, policeDept, dtypeDict=None, colNames=None):
 	return(df)
 
 
+def remove_empty_rows(df, colName):
+	df = df[df[colName] != 'unknown']
+	df = df[df[colName].notna()]
+	return(df)
+
+
 def get_col_names(dataFolder, state, policeDept):
 	csvFilepath = glob.glob(os.path.join(dataFolder, state, '{}_{}*.csv'.format(state.lower(), policeDept)))[0]
 	with open(csvFilepath) as csvFile:
