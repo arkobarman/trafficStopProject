@@ -24,6 +24,7 @@ LogitSpeeding.ipynb - data processed the same way as in SpeedingViolations.ipynb
 <h2 id="updates"> Updates</h2>
 
 Folder:
+
 county_summary_stats - county-level summary statistics and visualization
 
 logistic_regression_violation_types - Further examine top violation types, logistic regressions for selected violation types combined, and yearly citation rate visualization for violation types.
