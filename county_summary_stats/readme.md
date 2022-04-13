@@ -31,3 +31,5 @@
             (tableau dashboard with filters for county)
     ├────── geo_speeding_stops.twb
             (tableau dashboard of total # of stops for each county)
+            
+* See notebooks for definitions of summary statistics and calculation details
