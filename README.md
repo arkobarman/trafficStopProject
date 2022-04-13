@@ -25,9 +25,9 @@ LogitSpeeding.ipynb - data processed the same way as in SpeedingViolations.ipynb
 
 Folder:
 
-county_summary_stats - county-level summary statistics and visualization
+* county_summary_stats - county-level summary statistics and visualization
 
-logistic_regression_violation_types - Further examine top violation types, logistic regressions for selected violation types combined, and yearly citation rate visualization for violation types.
+* logistic_regression_violation_types - Further examine top violation types, logistic regressions for selected violation types combined, and yearly citation rate visualization for violation types.
 
-results_0206 - preprocessing (filter speeding only records and split data files for each year), yearly logistic regression for speeding only records, logistic regression for school zone violation (all year combined)
+* results_0206 - preprocessing (filter speeding only records and split data files for each year), yearly logistic regression for speeding only records, logistic regression for school zone violation (all year combined)
 
