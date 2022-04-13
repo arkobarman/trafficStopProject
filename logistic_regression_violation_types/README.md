@@ -9,7 +9,7 @@ This sub-repository contains notebooks and generated outputs for specific violat
             (Further examine top violation types, calculation of citation rates for each race for several violation types, and logistic regression for high citation rate types and low citation rate types. Visualizations inside notebook.)
             
             
-<h2 id="folder-structure"> csv files </h2>  
+<h2 id="folder-structure"> output files </h2>  
 
     ├────── vio_LR
             (output of vio_LR.ipynb: csv, jpg and svg files)
