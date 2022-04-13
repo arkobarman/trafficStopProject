@@ -3,15 +3,10 @@ This sub-repository contains notebooks and generated outputs for specific violat
 
     ├────── vio_LR.ipynb
             (logistic regression for several violation categories (separate and combined) having 5% < citation rate < 90%)
-    ├────── traffic_stop_tableau_0226.ipynb
-            (Change output files from trafficstop_county_summmarystat.ipynb to format suitable for Tableau visualization)
+    ├────── raw_cnt_prelim_lr.ipynb
+            (Generate raw counts for stops, citations/no citations for each race each year and preliminary logistic regression for high citation rate types combined and low citation rates combined)
     ├────── lr_rates_diverse.ipynb
-            (
-             1. Logistic regression with only counties
-             2. Speeding only and for all stops: [Rate of citation (normalize by # of stops or population) for each county; Rate of arrest (normalize by # of stops or population) fpr each county]
-             3. Look at stop reasons (is there any other general category like speeding)
-             4. diversity index
-            )
+            
             
 <h2 id="folder-structure"> csv files </h2>  
 
