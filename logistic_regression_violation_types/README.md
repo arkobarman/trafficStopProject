@@ -14,7 +14,9 @@ This sub-repository contains notebooks and generated outputs for specific violat
     ├────── vio_LR
             (output of vio_LR.ipynb: csv, jpg and svg files)
     ├────── raw_cnt_prelim_lr
-            (output of raw_cnt_prelim_lr.ipynb, raw count csvs and preliminary logistic regression (needs modification))
+            (output of raw_cnt_prelim_lr.ipynb, preliminary logistic regression (needs modification))
+    ├────── cnt_rate
+            (output of vio_type_rates_lr.ipynb, raw count and citation rate csvs)
 
             
 * See notebooks for details
