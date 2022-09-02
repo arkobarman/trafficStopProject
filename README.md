@@ -13,7 +13,7 @@ This project focuses on inherent racial biases displayed by the police force, in
 
 ## Project Objective
 
-##### Key parameters of the dataset
+### Key parameters of the dataset
 Some of the main parameters present in the data are:
 1. Date, Time
 2. Location, Lattitude, Longitude
@@ -27,7 +27,7 @@ Some of the main parameters present in the data are:
 10. Search Conducted (T/F)
 11. Vehicle Details (Color, Make etc)
 
-##### FinalNotebook(LR)
+#### FinalNotebook(LR)
 - As explained in the [python notebook](FinalNotebook(LR).ipynb), the parquet data is split based on the year, ranging from 2006 to 2017.
 - A simple sanity check is performed on the data before entering into analysis.
 - There are three logistic regression analyses that are performed:
