@@ -13,7 +13,7 @@ This project focuses on inherent racial biases displayed by the police force, in
 
 ## Project Objective
 
-### Key parameters of the dataset
+#### Key parameters of the dataset
 Some of the main parameters present in the data are:
 1. Date, Time
 2. Location, Lattitude, Longitude
@@ -37,3 +37,6 @@ Some of the main parameters present in the data are:
 - In these logisic regression curves, the **_variable odds_** ratio is plotted against the year. **_Variable odds ratio_** is a parameter usually utilized in case control studies. It represents the odds given a particular condition against a baseline without that condition. In the case of this project, it is plotted as a particular minority race (Black, Hispanic, Asian/Pacific Islander) against baseline majority race (White). 
   - For more information on odds-ratio and how it is calculated, refer to this [site](https://psychscenehub.com/psychpedia/odds-ratio-2/).
   
+## Under Construction
+
+The analysis is being extended to different states to strengthen the claims of racial bias by increasing the size of the data under consideration. Presently, the data for Florida is being studied.
