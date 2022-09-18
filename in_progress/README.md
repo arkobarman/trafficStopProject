@@ -9,4 +9,12 @@ There are multiple files present in this file, which are all in progress at the 
 3. [Florida_ExploratoryAnalysis.ipynb](Florida_ExploratoryAnalysis.ipynb)
   - This notebook performs exploratory analysis on the state of Florida.
   - It has basic visualizations and statistical analysis on different parameters on the Florida state patrol information.
+4. [LR_searchconducted.ipynb](LR_searchconducted.ipynb)
+  - This notebook performs the same analysis as the FinalNotebook present in the main page. 
+  - However, the outcome variable is taken to be "search_conducted" instead of "citation_issued"
+  - It also additionally contains the odds ratio of females with white as the baseline for all the 3 models for Texas, on top of the odds ratio of the races against white as the baseline for all the 3 models for Texas.
+5. [LR_contrabandfound.ipynb](LR_contrabandfound.ipynb)
+  - This notebook performs the same analysis as the FinalNotebook present in the main page. 
+  - However, the outcome variable is taken to be "contraband_found" instead of "citation_issued". In order to do this, the dataframe is subsetted to contain only the columns which have "search_conducted" as True. This is to ensure that there are no empty values/NaN values in the necessary outcome variable column.
+  - It also additionally contains the odds ratio of females with white as the baseline for all the 3 models for Texas, on top of the odds ratio of the races against white as the baseline for all the 3 models for Texas.
  
