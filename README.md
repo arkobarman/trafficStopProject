@@ -40,5 +40,5 @@ Some of the main parameters present in the data are:
 ## Under Construction
 
 - The analysis is being extended to different states to strengthen the claims of racial bias by increasing the size of the data under consideration. Presently, the data for Florida is being studied.
-- Other tangents for research in Texas is also being conducted. View the README.md file within the in_progress folder for more information regarding these.
+- Other tangents for research in Texas is also being conducted. View the (in_progress/README.md) file within the [in_progress](in_progress) folder for more information regarding these.
 
