@@ -8,9 +8,9 @@ This project focuses on inherent racial biases displayed by the police force, in
 - The parquet file conversion is done on RStudio and the code for that is present in the repository, as a .R file named [Conversion_parquet_file.R](Conversion_parquet_file.R)
 
 ## Repository Structure
-> This repository is currently under reconstruction. Archived folders can be found in the [replicated folder](replicated).
-> The current work in progress can be found in [in_progress](in_progress). These are old iterations of the files present in the main repository.
-> New updated files can be found in the main repository. 
+1. This repository is currently under reconstruction. Archived folders can be found in the [replicated folder](replicated).
+2. The current work in progress can be found in [in_progress](in_progress). These are old iterations of the files present in the main repository.
+3.  New updated files can be found in the main repository. 
 
 
 ## Project Objective
