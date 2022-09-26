@@ -29,7 +29,7 @@ Some of the main parameters present in the data are:
 10. Search Conducted (T/F)
 11. Vehicle Details (Color, Make etc)
 
-#### Structure of codebase
+#### Structure of codebase: Races
 - As explained in the notebooks, the parquet data is split based on the year, ranging from 2006 to 2017.
 - A simple sanity check is performed on the data before entering into analysis.
 - There are three logistic regression analyses that are performed:
@@ -39,17 +39,40 @@ Some of the main parameters present in the data are:
 - In these logisic regression curves, the **_variable odds_** ratio is plotted against the year. **_Variable odds ratio_** is a parameter usually utilized in case control studies. It represents the odds given a particular condition against a baseline without that condition. In the case of this project, it is plotted as a particular minority race (Black, Hispanic, Asian/Pacific Islander) against baseline majority race (White). 
   - For more information on odds-ratio and how it is calculated, refer to this [site](https://psychscenehub.com/psychpedia/odds-ratio-2/).
 
+#### Structure of codebase: Gender 
+- As explained in the notebooks, the parquet data is split based on the year, ranging from 2006 to 2017.
+- A simple sanity check is performed on the data before entering into analysis.
+- There are three logistic regression analyses that are performed:
+  - Logistic Regression without considering the Violation Type
+  - Logistic Regression considering the Violation Type
+  - Logistic Regression for **speeding-only** records.
+- In these logisic regression curves, the **_variable odds_** ratio is plotted against the year. **_Variable odds ratio_** is a parameter usually utilized in case control studies. It represents the odds given a particular condition against a baseline without that condition. In the case of this project, it is plotted as females against baseline males. 
+ - For more information on odds-ratio and how it is calculated, refer to this [site](https://psychscenehub.com/psychpedia/odds-ratio-2/).
+
+
 ## Files present in the main branch
-1. [LR_citation_issued.ipynb](LR_citation_issued.ipynb)
-  - This notebook performs the same analysis as explained above in the "Structure of codebase".
+1a. [LR_citation_issued.ipynb](LR_citation_issued.ipynb)
+  - This notebook performs the same analysis as explained above in the "Structure of codebase: Races".
+  - The outcome variable is taken to be "citation_issued".
+
+1b. [LR_citation_issued_female.ipynb](LR_citation_issued_female.ipynb)
+  - This notebook performs the same analysis as explained above in the "Structure of codebase: Gender".
   - The outcome variable is taken to be "citation_issued".
   
-2. [LR_search_conducted.ipynb](LR_search_conducted.ipynb)
-  - This notebook performs the same analysis as explained above in the "Structure of codebase".
+2a. [LR_search_conducted.ipynb](LR_search_conducted.ipynb)
+  - This notebook performs the same analysis as explained above in the "Structure of codebase: Races".
   - The outcome variable is taken to be "search_conducted".
 
-3. [LR_contraband_found.ipynb](LR_contraband_found.ipynb)
-  - This notebook performs the same analysis as explained above in the "Structure of codebase".
+2b. [LR_search_conducted_female.ipynb](LR_search_conducted_female.ipynb)
+  - This notebook performs the same analysis as explained above in the "Structure of codebase: Gender".
+  - The outcome variable is taken to be "search_conducted".
+
+3a. [LR_contraband_found.ipynb](LR_contraband_found.ipynb)
+  - This notebook performs the same analysis as explained above in the "Structure of codebase: Races".
+  - The outcome variable is taken to be "contraband_found". In order to do this, the dataframe is subsetted to contain only the columns which have "search_conducted" as True. This is to ensure that there are no empty values/NaN values in the necessary outcome variable column.
+
+3b. [LR_contraband_found_female.ipynb](LR_contraband_found_female.ipynb)
+  - This notebook performs the same analysis as explained above in the "Structure of codebase: Gender".
   - The outcome variable is taken to be "contraband_found". In order to do this, the dataframe is subsetted to contain only the columns which have "search_conducted" as True. This is to ensure that there are no empty values/NaN values in the necessary outcome variable column.
 
 ## Under Construction
