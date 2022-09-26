@@ -9,7 +9,9 @@ This project focuses on inherent racial biases displayed by the police force, in
 
 ## Repository Structure
 > This repository is currently under reconstruction. Archived folders can be found in the [replicated folder](replicated).
+> The current work in progress can be found in [in_progress](in_progress). These are old iterations of the files present in the main repository.
 > New updated files can be found in the main repository. 
+
 
 ## Project Objective
 
@@ -27,8 +29,8 @@ Some of the main parameters present in the data are:
 10. Search Conducted (T/F)
 11. Vehicle Details (Color, Make etc)
 
-#### FinalNotebook(LR)
-- As explained in the [python notebook](FinalNotebook(LR).ipynb), the parquet data is split based on the year, ranging from 2006 to 2017.
+#### Structure of codebase
+- As explained in the notebooks, the parquet data is split based on the year, ranging from 2006 to 2017.
 - A simple sanity check is performed on the data before entering into analysis.
 - There are three logistic regression analyses that are performed:
   - Logistic Regression without considering the Violation Type
@@ -40,5 +42,5 @@ Some of the main parameters present in the data are:
 ## Under Construction
 
 - The analysis is being extended to different states to strengthen the claims of racial bias by increasing the size of the data under consideration. Presently, the data for Florida is being studied.
-- Other tangents for research in Texas is also being conducted. View the [in_progress/README.md](in_progress/README.md) file within the [in_progress](in_progress) folder for more information regarding these.
+- Other tangents for research in Texas is also being conducted with different target variables. View the [in_progress/README.md](in_progress/README.md) file within the [in_progress](in_progress) folder for more information regarding these.
 
