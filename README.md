@@ -38,9 +38,21 @@ Some of the main parameters present in the data are:
   - Logistic Regression for **speeding-only** records.
 - In these logisic regression curves, the **_variable odds_** ratio is plotted against the year. **_Variable odds ratio_** is a parameter usually utilized in case control studies. It represents the odds given a particular condition against a baseline without that condition. In the case of this project, it is plotted as a particular minority race (Black, Hispanic, Asian/Pacific Islander) against baseline majority race (White). 
   - For more information on odds-ratio and how it is calculated, refer to this [site](https://psychscenehub.com/psychpedia/odds-ratio-2/).
-  
-## Under Construction
 
+## Files present in the main branch
+1. [LR_citation_issued.ipynb](LR_citation_issued.ipynb)
+  - This notebook performs the same analysis as explained above in the "Structure of codebase".
+  - The outcome variable is taken to be "citation_issued".
+  
+2. [LR_search_conducted.ipynb](LR_search_conducted.ipynb)
+  - This notebook performs the same analysis as explained above in the "Structure of codebase".
+  - The outcome variable is taken to be "search_conducted".
+
+3. [LR_contraband_found.ipynb](LR_contraband_found.ipynb)
+  - This notebook performs the same analysis as explained above in the "Structure of codebase".
+  - The outcome variable is taken to be "contraband_found". In order to do this, the dataframe is subsetted to contain only the columns which have "search_conducted" as True. This is to ensure that there are no empty values/NaN values in the necessary outcome variable column.
+
+## Under Construction
 - The analysis is being extended to different states to strengthen the claims of racial bias by increasing the size of the data under consideration. Presently, the data for Florida is being studied.
 - Other tangents for research in Texas is also being conducted with different target variables. View the [in_progress/README.md](in_progress/README.md) file within the [in_progress](in_progress) folder for more information regarding these.
 
