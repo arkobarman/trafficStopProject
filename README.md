@@ -88,9 +88,9 @@ Some of the main parameters present in the data are:
     - Male, Hispanic
     - Male, Asian/Pacific Islander
    - The extended dataset is used for performing the same logistic regression analysis with the three key parameters as target variables
-    - Citation Issued
-    - Search Conducted
-    - Contraband Found
+    -  Citation Issued
+    -  Search Conducted
+    -  Contraband Found
 
 ## Under Construction
 - The analysis is being extended to different states to strengthen the claims of racial bias by increasing the size of the data under consideration. Presently, the data for Florida is being studied.
