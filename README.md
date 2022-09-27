@@ -87,7 +87,7 @@ Some of the main parameters present in the data are:
     - Male, Black
     - Male, Hispanic
     - Male, Asian/Pacific Islander
-   - The extended dataset is used for performing the same logistic regression analysis with the three key parameters as target variables
+   - The extended dataset is used for performing the same logistic regression analysis with the three key parameters as target variables.
     -  Citation Issued
     -  Search Conducted
     -  Contraband Found
