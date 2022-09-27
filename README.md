@@ -74,6 +74,23 @@ Some of the main parameters present in the data are:
 3b. [LR_contraband_found_female.ipynb](LR_contraband_found_female.ipynb)
   - This notebook performs the same analysis as explained above in the "Structure of codebase: Gender".
   - The outcome variable is taken to be "contraband_found". In order to do this, the dataframe is subsetted to contain only the columns which have "search_conducted" as True. This is to ensure that there are no empty values/NaN values in the necessary outcome variable column.
+  
+### [Interaction_Terms](Interaction_Terms)
+  - In this folder, there are 6 notebooks, which perform the same analysis as listed above (1a to 3b). 
+  - The only point of difference is the existence of 8 extra columns. 
+  - These columns are Boolean interaction terms between race and gender. 
+    - Female, White
+    - Female, Black
+    - Female, Hispanic
+    - Female, Asian/Pacific Islander
+    - Male, White
+    - Male, Black
+    - Male, Hispanic
+    - Male, Asian/Pacific Islander
+   - The extended dataset is used for performing the same logistic regression analysis with the three key parameters as target variables
+    - Citation Issued
+    - Search Conducted
+    - Contraband Found
 
 ## Under Construction
 - The analysis is being extended to different states to strengthen the claims of racial bias by increasing the size of the data under consideration. Presently, the data for Florida is being studied.
