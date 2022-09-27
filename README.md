@@ -76,8 +76,7 @@ Some of the main parameters present in the data are:
   - The outcome variable is taken to be "contraband_found". In order to do this, the dataframe is subsetted to contain only the columns which have "search_conducted" as True. This is to ensure that there are no empty values/NaN values in the necessary outcome variable column.
   
 ### [Interaction_Terms](Interaction_Terms)
-  - In this folder, there are 6 notebooks, which perform the same analysis as listed above (1a to 3b). 
-  - The only point of difference is the existence of 8 extra columns. 
+  - In this folder, the dataset has 8 extra columns. 
   - These columns are Boolean interaction terms between race and gender. 
     - Female, White
     - Female, Black
@@ -91,6 +90,7 @@ Some of the main parameters present in the data are:
     - Citation Issued
     - Search Conducted
     - Contraband Found
+  - The baseline is White Male, and the rest of the 7 terms are plotted as odds ratio against this baseline. 
 
 
 ## Under Construction
