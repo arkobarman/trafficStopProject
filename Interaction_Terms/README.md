@@ -1,6 +1,6 @@
 ### [Interaction_Terms](Interaction_Terms)
   - In this folder, the dataset has 8 extra columns. 
-  - These columns are Boolean interaction terms between race and gender. 
+  - These columns are Boolean interaction terms between race and gender:
     - Female, White
     - Female, Black
     - Female, Hispanic
