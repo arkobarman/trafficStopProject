@@ -92,6 +92,11 @@ Some of the main parameters present in the data are:
     - Contraband Found
   - The baseline is White Male, and the rest of the 7 terms are plotted as odds ratio against this baseline. 
 
+#### [Based On Time of Day](Based On Time of Day)
+
+  - In this folder, the dataset has an extra column which depicts whether it is daytime or night time. This is done in order to gauge whether the citations and searches of minority (non-baseline) races are significantly different in the daytime when their races are apparent. 
+  - The same plots are calculated, but there are two plots for every variable (Citation Issued, Search Conducted, Contraband Found) for the day and night time respectively. 
+
 
 ## Under Construction
 - The analysis is being extended to different states to strengthen the claims of racial bias by increasing the size of the data under consideration. Presently, the data for Florida is being studied.
