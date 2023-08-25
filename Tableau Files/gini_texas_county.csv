@@ -1,0 +1,255 @@
+,county,gini_index,county_region
+0,Anderson,0.4633, Upper East 
+1,Andrews,0.5065,West Texas 
+2,Angelina,0.4745,Southeast 
+3,Aransas,0.4722,South Texas 
+4,Archer,0.4212,Northwest 
+5,Armstrong,0.3762,High Plains 
+6,Atascosa,0.4395,Alamo
+7,Austin,0.4502,Gulf Coast 
+8,Bailey,0.426,High Plains 
+9,Bandera,0.421,Alamo
+10,Bastrop,0.4214,Capital
+11,Baylor,0.4562,Northwest 
+12,Bee,0.4758,South Texas 
+13,Bell,0.4275,Central Texas 
+14,Bexar,0.4647,Alamo
+15,Blanco,0.4162,Capital
+16,Borden,0.5473,West Texas 
+17,Bosque,0.4494,Central Texas 
+18,Bowie,0.477, Upper East 
+19,Brazoria,0.4222,Gulf Coast 
+20,Brazos,0.527,Central Texas 
+21,Brewster,0.4746,UPPER RIO GRANDE
+22,Briscoe,0.4211,High Plains 
+23,Brooks,0.5344,South Texas 
+24,Brown,0.4624,Northwest 
+25,Burleson,0.4188,Central Texas 
+26,Burnet,0.4251,Capital
+27,Caldwell,0.4517,Capital
+28,Calhoun,0.4425,Alamo
+29,Callahan,0.425,Northwest 
+30,Cameron,0.4941,South Texas 
+31,Camp,0.4474, Upper East 
+32,Carson,0.3723,High Plains 
+33,Cass,0.4418, Upper East 
+34,Castro,0.4248,High Plains 
+35,Chambers,0.4048,Gulf Coast 
+36,Cherokee,0.4633, Upper East 
+37,Childress,0.4427,High Plains 
+38,Clay,0.3771,Northwest 
+39,Cochran,0.425,High Plains 
+40,Coke,0.4576,West Texas 
+41,Coleman,0.4853,Northwest 
+42,Collin,0.4223,Metroplex 
+43,Collingsworth,0.4761,High Plains 
+44,Colorado,0.4784,Gulf Coast 
+45,Comal,0.4536,Alamo
+46,Comanche,0.4343,Northwest 
+47,Concho,0.444,West Texas 
+48,Cooke,0.436,Metroplex 
+49,Coryell,0.3848,Central Texas 
+50,Cottle,0.4028,Northwest 
+51,Crane,0.4297,West Texas 
+52,Crockett,0.4278,West Texas 
+53,Crosby,0.4549,High Plains 
+54,Culberson,0.4545,UPPER RIO GRANDE
+55,Dallam,0.4003,High Plains 
+56,Dallas,0.4922,Metroplex 
+57,Dawson,0.4512,West Texas 
+58,Deaf Smith,0.406,High Plains 
+59,Delta,0.4138, Upper East 
+60,Denton,0.4201,Metroplex 
+61,DeWitt,0.4865,Alamo
+62,Dickens,0.4723,High Plains 
+63,Dimmit,0.4813,South Texas 
+64,Donley,0.4116,High Plains 
+65,Duval,0.4748,South Texas 
+66,Eastland,0.5234,Northwest 
+67,Ector,0.4611,West Texas 
+68,Edwards,0.5405,South Texas 
+69,Ellis,0.4021,Metroplex 
+70,El Paso,0.467,UPPER RIO GRANDE
+71,Erath,0.4964,Metroplex 
+72,Falls,0.4338,Central Texas 
+73,Fannin,0.4254,Metroplex 
+74,Fayette,0.4822,Capital
+75,Fisher,0.4711,Northwest 
+76,Floyd,0.4478,High Plains 
+77,Foard,0.404,Northwest 
+78,Fort Bend,0.42,Gulf Coast 
+79,Franklin,0.4959, Upper East 
+80,Freestone,0.446,Central Texas 
+81,Frio,0.4739,Alamo
+82,Gaines,0.4816,West Texas 
+83,Galveston,0.4536,Gulf Coast 
+84,Garza,0.4681,High Plains 
+85,Gillespie,0.4237,Alamo
+86,Glasscock,0.3927,West Texas 
+87,Goliad,0.477,Alamo
+88,Gonzales,0.4611,Alamo
+89,Gray,0.4462,High Plains 
+90,Grayson,0.4399,Metroplex 
+91,Gregg,0.4655, Upper East 
+92,Grimes,0.4669,Central Texas 
+93,Guadalupe,0.391,Alamo
+94,Hale,0.4301,High Plains 
+95,Hall,0.4899,High Plains 
+96,Hamilton,0.4583,Central Texas 
+97,Hansford,0.4211,High Plains 
+98,Hardeman,0.4277,Northwest 
+99,Hardin,0.4251,Southeast 
+100,Harris,0.4918,Gulf Coast 
+101,Harrison,0.4485, Upper East 
+102,Hartley,0.4393,High Plains 
+103,Haskell,0.4501,Northwest 
+104,Hays,0.4559,Capital
+105,Hemphill,0.4714,High Plains 
+106,Henderson,0.4566, Upper East 
+107,Hidalgo,0.495,South Texas 
+108,Hill,0.436,Central Texas 
+109,Hockley,0.441,High Plains 
+110,Hood,0.4459,Metroplex 
+111,Hopkins,0.4391, Upper East 
+112,Houston,0.5183,Southeast 
+113,Howard,0.4244,West Texas 
+114,Hudspeth,0.5214,UPPER RIO GRANDE
+115,Hunt,0.4525,Metroplex 
+116,Hutchinson,0.4239,High Plains 
+117,Irion,0.4404,West Texas 
+118,Jack,0.4331,Northwest 
+119,Jackson,0.4372,Alamo
+120,Jasper,0.4444,Southeast 
+121,Jeff Davis,0.4083,UPPER RIO GRANDE
+122,Jefferson,0.4792,Southeast 
+123,Jim Hogg,0.4153,South Texas 
+124,Jim Wells,0.4716,South Texas 
+125,Johnson,0.401,Metroplex 
+126,Jones,0.433,Northwest 
+127,Karnes,0.5124,Alamo
+128,Kaufman,0.4013,Metroplex 
+129,Kendall,0.4537,Alamo
+130,Kenedy,0.3767,South Texas 
+131,Kent,0.3789,Northwest 
+132,Kerr,0.4635,Alamo
+133,Kimble,0.4349,West Texas 
+134,King,0.3496,High Plains 
+135,Kinney,0.4189,South Texas 
+136,Kleberg,0.4783,South Texas 
+137,Knox,0.4442,Northwest 
+138,Lamar,0.4482, Upper East 
+139,Lamb,0.4308,High Plains 
+140,Lampasas,0.4429,Central Texas 
+141,La Salle,0.5123,South Texas 
+142,Lavaca,0.4404,Alamo
+143,Lee,0.4199,Capital
+144,Leon,0.4621,Central Texas 
+145,Liberty,0.4261,Gulf Coast 
+146,Limestone,0.4244,Central Texas 
+147,Lipscomb,0.4359,High Plains 
+148,Live Oak,0.4477,South Texas 
+149,Llano,0.5295,Capital
+150,Loving,0.3997,West Texas 
+151,Lubbock,0.4862,High Plains 
+152,Lynn,0.4059,High Plains 
+153,McCulloch,0.4676,West Texas 
+154,McLennan,0.4698,Central Texas 
+155,McMullen,0.3969,South Texas 
+156,Madison,0.4331,Central Texas 
+157,Marion,0.4859, Upper East 
+158,Martin,0.4556,West Texas 
+159,Mason,0.4859,West Texas 
+160,Matagorda,0.4755,Gulf Coast 
+161,Maverick,0.4692,South Texas 
+162,Medina,0.4325,Alamo
+163,Menard,0.5125,West Texas 
+164,Midland,0.4882,West Texas 
+165,Milam,0.4598,Central Texas 
+166,Mills,0.4595,Central Texas 
+167,Mitchell,0.4118,Northwest 
+168,Montague,0.4535,Northwest 
+169,Montgomery,0.4658,Gulf Coast 
+170,Moore,0.3772,High Plains 
+171,Morris,0.4535, Upper East 
+172,Motley,0.4259,High Plains 
+173,Nacogdoches,0.4777,Southeast 
+174,Navarro,0.4482,Metroplex 
+175,Newton,0.4646,Southeast 
+176,Nolan,0.4524,Northwest 
+177,Nueces,0.4657,South Texas 
+178,Ochiltree,0.427,High Plains 
+179,Oldham,0.4325,High Plains 
+180,Orange,0.4453,Southeast 
+181,Palo Pinto,0.4641,Metroplex 
+182,Panola,0.4452, Upper East 
+183,Parker,0.4349,Metroplex 
+184,Parmer,0.4336,High Plains 
+185,Pecos,0.442,West Texas 
+186,Polk,0.4446,Southeast 
+187,Potter,0.4635,High Plains 
+188,Presidio,0.4652,UPPER RIO GRANDE
+189,Rains,0.3867, Upper East 
+190,Randall,0.4335,High Plains 
+191,Reagan,0.3668,West Texas 
+192,Real,0.4112,South Texas 
+193,Red River,0.4242, Upper East 
+194,Reeves,0.4489,West Texas 
+195,Refugio,0.4441,South Texas 
+196,Roberts,0.4603,High Plains 
+197,Robertson,0.4991,Central Texas 
+198,Rockwall,0.3952,Metroplex 
+199,Runnels,0.4358,Northwest 
+200,Rusk,0.4475, Upper East 
+201,Sabine,0.4324,Southeast 
+202,San Augustine,0.5113,Southeast 
+203,San Jacinto,0.4658,Southeast 
+204,San Patricio,0.4406,South Texas 
+205,San Saba,0.4547,Central Texas 
+206,Schleicher,0.4593,West Texas 
+207,Scurry,0.4596,Northwest 
+208,Shackelford,0.4336,Northwest 
+209,Shelby,0.4899,Southeast 
+210,Sherman,0.3834,High Plains 
+211,Smith,0.4776, Upper East 
+212,Somervell,0.4618,Metroplex 
+213,Starr,0.5128,South Texas 
+214,Stephens,0.4388,Northwest 
+215,Sterling,0.4447,West Texas 
+216,Stonewall,0.455,Northwest 
+217,Sutton,0.4387,West Texas 
+218,Swisher,0.4282,High Plains 
+219,Tarrant,0.4553,Metroplex 
+220,Taylor,0.4645,Northwest 
+221,Terrell,0.4325,West Texas 
+222,Terry,0.51,High Plains 
+223,Throckmorton,0.4196,Northwest 
+224,Titus,0.4361, Upper East 
+225,Tom Green,0.4433,West Texas 
+226,Travis,0.4906,Capital
+227,Trinity,0.4395,Southeast 
+228,Tyler,0.4179,Southeast 
+229,Upshur,0.4329, Upper East 
+230,Upton,0.4107,West Texas 
+231,Uvalde,0.4823,South Texas 
+232,Val Verde,0.4413,South Texas 
+233,Van Zandt,0.4377, Upper East 
+234,Victoria,0.446,Alamo
+235,Walker,0.4891,Gulf Coast 
+236,Waller,0.4466,Gulf Coast 
+237,Ward,0.465,West Texas 
+238,Washington,0.4571,Central Texas 
+239,Webb,0.4604,South Texas 
+240,Wharton,0.4751,Gulf Coast 
+241,Wheeler,0.4933,High Plains 
+242,Wichita,0.4609,Northwest 
+243,Wilbarger,0.4469,Northwest 
+244,Willacy,0.5339,South Texas 
+245,Williamson,0.3783,Capital
+246,Wilson,0.4083,Alamo
+247,Winkler,0.4257,West Texas 
+248,Wise,0.4173,Metroplex 
+249,Wood,0.437, Upper East 
+250,Yoakum,0.432,High Plains 
+251,Young,0.5074,Northwest 
+252,Zapata,0.5047,South Texas 
+253,Zavala,0.4936,South Texas 
