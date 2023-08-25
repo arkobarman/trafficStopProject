@@ -9,4 +9,6 @@ The goal is to find out whether the same analysis can be applied to other states
 2. citation_data.csv: Include only data files with citation available
    
 3. allTargets_data.csv: Include only data files with citation, search_conducted and contraband_found available.
+
+4. traffic_state_data_check.R: R file to check some variables' missing rate, citation rate, etc.
    
