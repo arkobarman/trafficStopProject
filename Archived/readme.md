@@ -27,7 +27,7 @@ Not all results are presentable and a code review should be done before any outp
  - For more information on odds-ratio and how it is calculated, refer to this [site](https://psychscenehub.com/psychpedia/odds-ratio-2/).
 
 
-## Files present in the main branch
+#### Files present in the main branch
 1a. [LR_citation_issued.ipynb](LR_citation_issued.ipynb)
   - This notebook performs the same analysis as explained above in the "Structure of codebase: Races".
   - The outcome variable is taken to be "citation_issued".
@@ -75,7 +75,7 @@ Not all results are presentable and a code review should be done before any outp
   - The same plots are calculated, but there are two plots for every variable (Citation Issued, Search Conducted, Contraband Found) for the day and night time respectively. 
 
 
-## Under Construction
+### Under Construction
 - The analysis is being extended to different states to strengthen the claims of racial bias by increasing the size of the data under consideration. Presently, the data for Florida is being studied.
 - Other tangents for research in Texas is also being conducted with different target variables. View the [in_progress/README.md](in_progress/README.md) file within the [in_progress](in_progress) folder for more information regarding these.
 
