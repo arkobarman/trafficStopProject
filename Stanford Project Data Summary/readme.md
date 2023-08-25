@@ -4,7 +4,7 @@ The excel files contain information about which variables are available, whether
 
 The goal is to find out whether the same analysis can be applied to other states/cities in the Stanford open policing data as in Texas.
 
-1. Traffic Stop Data Summary.xlsx: Include all data files availabel on https://openpolicing.stanford.edu/
+1. Traffic Stop Data Summary.xlsx: Include all data files available on https://openpolicing.stanford.edu/
    
 2. citation_data.csv: Include only data files with citation available
    
