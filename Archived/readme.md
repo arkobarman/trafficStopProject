@@ -28,27 +28,27 @@ Not all results are presentable and a code review should be done before any outp
 
 
 #### Files present in the main branch
-1a. [LR_citation_issued.ipynb](LR_citation_issued.ipynb)
+1a. [LR_citation_issued.ipynb](https://github.com/arkobarman/trafficStopProject/blob/main/Archived/older_iterations/LR_citation_issued.ipynb)
   - This notebook performs the same analysis as explained above in the "Structure of codebase: Races".
   - The outcome variable is taken to be "citation_issued".
 
-1b. [LR_citation_issued_female.ipynb](LR_citation_issued_female.ipynb)
+1b. [LR_citation_issued_female.ipynb](https://github.com/arkobarman/trafficStopProject/blob/main/Archived/older_iterations/LR_citation_issued_female.ipynb)
   - This notebook performs the same analysis as explained above in the "Structure of codebase: Gender".
   - The outcome variable is taken to be "citation_issued".
   
-2a. [LR_search_conducted.ipynb](LR_search_conducted.ipynb)
+2a. [LR_search_conducted.ipynb](https://github.com/arkobarman/trafficStopProject/blob/main/Archived/older_iterations/LR_search_conducted.ipynb)
   - This notebook performs the same analysis as explained above in the "Structure of codebase: Races".
   - The outcome variable is taken to be "search_conducted".
 
-2b. [LR_search_conducted_female.ipynb](LR_search_conducted_female.ipynb)
+2b. [LR_search_conducted_female.ipynb](https://github.com/arkobarman/trafficStopProject/blob/main/Archived/older_iterations/LR_search_conducted_female.ipynb)
   - This notebook performs the same analysis as explained above in the "Structure of codebase: Gender".
   - The outcome variable is taken to be "search_conducted".
 
-3a. [LR_contraband_found.ipynb](LR_contraband_found.ipynb)
+3a. [LR_contraband_found.ipynb](https://github.com/arkobarman/trafficStopProject/blob/main/Archived/older_iterations/LR_contraband_found.ipynb)
   - This notebook performs the same analysis as explained above in the "Structure of codebase: Races".
   - The outcome variable is taken to be "contraband_found". In order to do this, the dataframe is subsetted to contain only the columns which have "search_conducted" as True. This is to ensure that there are no empty values/NaN values in the necessary outcome variable column.
 
-3b. [LR_contraband_found_female.ipynb](LR_contraband_found_female.ipynb)
+3b. [LR_contraband_found_female.ipynb](https://github.com/arkobarman/trafficStopProject/blob/main/Archived/older_iterations/LR_search_conducted_female.ipynb)
   - This notebook performs the same analysis as explained above in the "Structure of codebase: Gender".
   - The outcome variable is taken to be "contraband_found". In order to do this, the dataframe is subsetted to contain only the columns which have "search_conducted" as True. This is to ensure that there are no empty values/NaN values in the necessary outcome variable column.
   
