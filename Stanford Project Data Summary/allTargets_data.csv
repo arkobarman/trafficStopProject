@@ -1,0 +1,7 @@
+Index,State,Region,Stops,Time Start,Time End,Stop Location,Race,Sex,Violation,Search,Contraband,Citation,Pedestrian Included,Citation Valid,Citation Percent,Usable,Comment
+20,CT,State Patrol,1175339,01/09/2013,01/09/2015,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,47.50%,TRUE,"has county, p(searched|stopped) = 3.91%; p(contraband|searche) = 23.68%"
+28,IL,State Patrol,12748173,01/12/2011,01/12/2017,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,46.90%,Hard,"Location seems to be zip code, no county name, p(searched|stopped)=4.68%; p(contraband|searched)=23.5%"
+36,MD,State Patrol,3587052,01/12/2006,01/03/2014,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,37.60%,FALSE,"no county info, 77% location missing rate"
+69,TN,Nashville,3092351,01/12/2009,01/03/2019,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,22.50%,Hard,"has specific location and zip code, need mapping, p(searched|stopped)=4.13%; p(contraband|searched)=20.58%"
+78,TX,State Patrol,27426840,01/12/2005,01/12/2017,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,37.29%,TRUE,p(searched|stopped)=10%; p(contraband|searched)=86.24%
+86,WI,State Patrol,1058816,01/12/2009,01/05/2016,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,49.80%,TRUE,"has county, p(searched|stopped)=1.35%; p(contraband|searched)=50.80%"
