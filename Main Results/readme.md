@@ -1,8 +1,8 @@
-### This folder contains the main results that are currently included in our manuscript.*
+##### This folder contains the main results that are currently included in our manuscript.
 
-### There are mainly four models in our analysis: citation for all traffic stops; citation for speeding-only stops; search conducted for speeding-only stops; contraband found for speeding-only stops.
+##### There are mainly four models in our analysis: citation for all traffic stops; citation for speeding-only stops; search conducted for speeding-only stops; contraband found for speeding-only stops.
 
-### All the figures currently included in our manuscript can be found here, and the file name should explain itself. 
+##### All the figures currently included in our manuscript can be found here, and the file name should explain itself. 
 
 ORCI refers to race variables' odds ratios / confidence intervals with the citation variable as the target.
 
