@@ -8,7 +8,7 @@
 [y_2_Search_230804.ipynb](y_2_Search_230804.ipynb)
 - search conducted for speeding-only stops
   
-[y_3_Contraband_20230804.ipynb](y_3_Contraband_20230804.ipynb)
+[y_3_Contraband_230804.ipynb](y_3_Contraband_230804.ipynb)
 - contraband found for speeding-only stops
 
 #### All the figures currently included in our manuscript can be found here, and the file name should explain itself. 
