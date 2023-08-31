@@ -14,6 +14,7 @@ This project focuses on inherent racial biases displayed by the police force, in
 4. [Stanford Project Data Summary](https://github.com/arkobarman/trafficStopProject/tree/main/Stanford%20Project%20Data%20Summary) has excel files that summarize variables available in data from other states.
 5. [Supplementary](https://github.com/arkobarman/trafficStopProject/tree/main/Supplementary) has some other analysis for exploratory purpose that are not included in the manuscript.
 6. [Tableau Files](https://github.com/arkobarman/trafficStopProject/tree/main/Tableau%20Files) has some intermediate data files and Tableau workbooks for visualizing diversity indexes for different counties.
+7. [Summary Slide](https://github.com/arkobarman/trafficStopProject/blob/main/trafficStop_summer23.pptx) is the slide used for meetings and summarizes outputs of the work done in summer 2023.
 
 
 ## Project Objective
