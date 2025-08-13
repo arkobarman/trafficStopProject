@@ -1,0 +1,13 @@
+,subject_race,citation_issued,Count
+0,white,False,5474356
+1,white,True,2195902
+2,hispanic,False,1914620
+3,hispanic,True,985459
+4,black,False,702640
+5,black,True,354527
+6,asian/pacific islander,False,117518
+7,asian/pacific islander,True,97722
+8,unknown,False,204298
+9,unknown,True,95655
+10,other,False,11910
+11,other,True,6145
